@@ -1,0 +1,19 @@
+---
+title: "Deyang Cao's Portfolio"
+format: html
+---
+
+<center>
+
+![](images/deyang.jpg){.avatar}
+
+</center>
+
+# Hi, I'm Deyang Cao
+
+> MSc. in Business Analytics \@ Boston University\
+> Passionate about data-driven problem solving, real-world impact, and elegant simplicity.
+
+> Welcome to my professional portfolio — feel free to explore my background, projects, and resume using the navigation above.
+
+[📄 Download My Resume](resume.pdf){.btn .btn-primary target="_blank"}

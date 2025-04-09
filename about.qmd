@@ -1,0 +1,24 @@
+---
+title: "about"
+format: html
+---
+
+## 🎓 Education
+
+**Boston University**  
+MSc. in Business Analytics · Sep 2024 – Dec 2025
+
+**University of Connecticut**  
+BSc. in Economics · Sep 2020 – May 2024
+
+---
+
+## 🧠 Skills & Certifications
+
+- **Technical:** Python, R, SQL, Tableau  
+
+- **Core Skills:** Forecasting, Clustering, BI Dashboards  
+
+- **Certifications:** Google Data Analytics, Google Ads  
+
+- **Languages:** Mandarin (Native), English (Fluent)

@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Deyang Cao"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
+      - href: resume.pdf
+        text: Resume
+  page-footer:
+    center: "© 2025 Deyang Cao | Boston"
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+

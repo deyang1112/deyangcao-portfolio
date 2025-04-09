@@ -1,0 +1,26 @@
+---
+title: "Experience"
+format: html
+---
+
+## 💼 Work Experience
+
+### COFCO International — *Data Analytics Intern*  
+Beijing · May 2024 – Aug 2024  
+- Processed 2M+ SQL/API data rows  
+- Built ARIMA/Prophet models for demand forecasting  
+- Created Tableau dashboards for business KPIs
+
+
+
+### Beehome Realty — *Analytics Intern*  
+Boston · Jun 2023 – Sep 2023  
+- Analyzed 100K+ records, improved querying by 30%  
+- Identified high-potential markets, lifted marketing ROI
+
+
+
+### SPORIT — *Marketing Intern*  
+Remote · May 2022 – Aug 2022  
+- Secured 22 Olympic venue partnerships  
+- Produced 20+ assets and 5 videos, increasing awareness by 40%
